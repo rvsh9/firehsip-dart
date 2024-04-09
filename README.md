@@ -1,1 +1,1 @@
-# firehsip-dart
+A simple command-line application.
